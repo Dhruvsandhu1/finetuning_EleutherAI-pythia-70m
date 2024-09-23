@@ -1,0 +1,8 @@
+lamini
+ipykernel
+python-dotenv
+datasets
+transformers
+pytorch
+langchain
+langchain-community
